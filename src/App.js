@@ -8,7 +8,7 @@ function App() {
       <footer>
         This project was coded by{" "}
         <a
-          href="https://app.netlify.com/sites/meek-malabi-7397e3/overview"
+          href="https://meek-malabi-7397e3.netlify.app/"
           target="_blank"
           rel="noreferrer noopener"
         >
